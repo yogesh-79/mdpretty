@@ -1,6 +1,6 @@
 {
-  "name": "mdviewer",
-  "version": "1.0.1",
+  "name": "prettymdviewer",
+  "version": "1.0.2",
   "description": "Beautiful markdown viewer — render .md files in a styled browser UI with TOC, dark/light themes, and scroll spy",
   "main": "index.js",
   "bin": {
