@@ -1,5 +1,5 @@
 {
-  "name": "mdpretty",
+  "name": "mdviewer",
   "version": "1.0.0",
   "description": "Beautiful markdown viewer — render .md files in a styled browser UI with TOC, dark/light themes, and scroll spy",
   "main": "index.js",
@@ -27,7 +27,7 @@
   "author": "yogesh swami",
   "license": "MIT",
   "type": "commonjs",
-  "repository": {                                           
+  "repository": {
     "type": "git",
     "url": "https://github.com/yogesh-79/mdpretty"
   },
